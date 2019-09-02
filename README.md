@@ -1,5 +1,5 @@
-# m2i-jour1
+# m2i-jour1 -- EDITION GITHUB
 
-Ceci est mon fichier README
+Ceci est mon fichier README sur Github
 
 khjlkhjgljhgkljhklgjhfg
